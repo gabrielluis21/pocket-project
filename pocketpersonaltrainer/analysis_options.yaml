@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    avoid_print: ignore
+    avoid_unnecessary_containers: ignore
+    control_flow_in_finally: ignore
+    curly_braces_in_flow_control_structures: ignore
+    library_private_types_in_public_api: ignore
+    must_be_immutable: ignore
+    prefer_typing_uninitialized_variables: ignore
+    unnecessary_string_interpolations: ignore
+    unnecessary_this: ignore
+    use_build_context_synchronously: ignore

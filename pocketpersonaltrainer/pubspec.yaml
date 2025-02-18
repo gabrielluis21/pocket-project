@@ -1,0 +1,83 @@
+name: pocketpersonaltrainer
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+
+  intl: any
+  
+  firebase_core: ^3.5.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.2
+  firebase_messaging: ^15.1.2
+  firebase_storage: ^12.3.1
+  firebase_analytics: ^11.3.2
+  cloud_functions: ^5.1.2
+  google_sign_in: ^6.2.1
+  google_mobile_ads: ^5.1.0
+  geoflutterfire_plus: ^0.0.31
+  url_launcher: ^6.3.0 
+  awesome_notifications_core: ^0.10.0
+  awesome_notifications: ^0.10.0
+  audioplayers:
+  cached_network_image:
+  carousel_slider:  
+  font_awesome_flutter:
+  flare_flutter: 
+  flutter_facebook_auth: ^7.1.1
+  flutter_map:
+  flutter_staggered_grid_view:
+  get: 
+  get_it:
+  geolocator: 
+  geocode:
+  image_picker:
+  latlong2:
+  mask_text_input_formatter:
+  material_design_icons_flutter:
+  permission_handler:
+  provider:
+  qr_flutter:
+  share_plus: ^10.1.1 
+  shared_preferences:
+  table_calendar:
+  universal_io:
+  http: ^1.2.2
+  app_settings: ^5.1.1
+  in_app_review: ^2.0.10
+  in_app_purchase: ^3.2.0
+  google_maps_flutter: ^2.10.0
+  hive: ^2.2.3
+  fluttertoast: ^8.2.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.2
+  change_app_package_name:
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/New_Logo.png"
+
+flutter:
+  generate: true 
+  uses-material-design: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/
+    - assets/images/background/
+    - assets/sounds/alarm.mp3
+    - assets/animations/WeightSpin.flr
+    - assets/utils/countryAndCities.json

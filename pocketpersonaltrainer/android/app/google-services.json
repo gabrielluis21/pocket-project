@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937786460707",
+    "firebase_url": "https://pocket-personal-1543965339641.firebaseio.com",
+    "project_id": "pocket-personal--1543965339641",
+    "storage_bucket": "pocket-personal--1543965339641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937786460707:android:b0719236b8f43b99a87f96",
+        "android_client_info": {
+          "package_name": "com.br.silva.pocketpersonaltrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937786460707-gvrkpohdp2v0gcl1a4qjfnqgpa1t8p93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.silva.pocketpersonaltrainer",
+            "certificate_hash": "234c0a4e0dd8ea66c388b51ad58320b14eefe83e"
+          }
+        },
+        {
+          "client_id": "937786460707-01bbjorpek2t19m217n13dtqcp4cdj44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqqJIpg7TMdUDj_1XO-uxSfcnVdR4fTR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937786460707-01bbjorpek2t19m217n13dtqcp4cdj44.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "937786460707-7pdtu1p06cgdfc7br3h3a5m2iab88l58.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pocketpersonaltrainer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
